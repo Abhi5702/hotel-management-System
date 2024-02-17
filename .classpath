@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="HMS_Main/src"/>
+	<classpathentry kind="lib" path="HMS_Main/dist/HMS_Main.jar"/>
+	<classpathentry kind="lib" path="HMS_Main/dist/lib/AbsoluteLayout.jar"/>
+	<classpathentry kind="lib" path="HMS_Main/dist/lib/jcalendar-1.4 1.jar"/>
+	<classpathentry kind="lib" path="HMS_Main/dist/lib/sqljdbc4.jar"/>
+	<classpathentry kind="lib" path="HMS_Main/jcalendar-1.4 1.jar"/>
+	<classpathentry kind="lib" path="HMS_Main/sqljdbc4.jar"/>
+	<classpathentry kind="output" path="HMS_Main/build/classes"/>
+</classpath>
